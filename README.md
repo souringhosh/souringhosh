@@ -1,7 +1,7 @@
 # Sourin Ghosh
 
 **Robotics Engineer | Computer Vision & Embedded ML Specialist**  
-📧 [souringhosh1@live.com](mailto:souringhosh1[AT]live.com) • 🌐 [GitHub](https://github.com/souringhosh) • [Google Scholar](https://scholar.google.com/citations?user=2OLRqm4AAAAJ)
+📧 [souringhosh1[AT]live.com](mailto:souringhosh1[AT]live.com) • 🌐 [GitHub](https://github.com/souringhosh) • [Google Scholar](https://scholar.google.com/citations?user=2OLRqm4AAAAJ)
 
 ---
 
@@ -99,5 +99,5 @@ This is a work towards developing a wearable Body Sensor Network(BSN) for Table 
 
 ## 🚀 Let's Collaborate
 
-Open to research collaborations, productizing CV/ML for embedded systems, and solving real-world problems through engineering. Feel free to [reach out](mailto:souringhosh1@live.com)!
+Open to research collaborations, productizing CV/ML for embedded systems, and solving real-world problems through engineering. Feel free to reach out!
 
